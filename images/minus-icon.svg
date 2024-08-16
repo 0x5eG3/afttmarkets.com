@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>minus-icon</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="资讯-帮助" transform="translate(-1571, -477)">
+            <rect fill="" x="0" y="0" width="1920" height="1850"></rect>
+            <path d="M1643,352.5 C1647.28021,352.5 1651.15521,354.234897 1653.96016,357.039845 C1656.7651,359.844793 1658.5,363.719793 1658.5,368 L1658.5,1095 C1658.5,1099.28021 1656.7651,1103.15521 1653.96016,1105.96016 C1651.15521,1108.7651 1647.28021,1110.5 1643,1110.5 L277,1110.5 C272.719793,1110.5 268.844793,1108.7651 266.039845,1105.96016 C263.234897,1103.15521 261.5,1099.28021 261.5,1095 L261.5,368 C261.5,363.719793 263.234897,359.844793 266.039845,357.039845 C268.844793,354.234897 272.719793,352.5 277,352.5 Z" id="矩形" stroke="#E5E5E5" fill=""></path>
+            <g id="编组-11" transform="translate(592, 476)">
+                <g id="minus" transform="translate(979, 1)">
+                    <rect id="矩形" fill-opacity="0" fill="#E4E4E4" x="0" y="0" width="24" height="24"></rect>
+                    <g id="编组" fill="#6D6F78">
+                        <rect id="矩形" x="4" y="11.5" width="16" height="1"></rect>
+                    </g>
+                </g>
+                <g id="minus" transform="translate(979, 1)">
+                    <rect id="矩形" fill-opacity="0" fill="#E4E4E4" x="0" y="0" width="24" height="24"></rect>
+                    <g id="编组" fill="#6D6F78">
+                        <rect id="矩形" x="4" y="11.5" width="16" height="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>linear-icon-language</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1504, -33)">
+            <g id="编组-64" transform="translate(1496, 27)">
+                <g id="编组" transform="translate(8, 6)">
+                    <rect id="矩形" fill-opacity="0" fill="#141C3E" x="0" y="0" width="16" height="16"></rect>
+                    <circle id="椭圆形" stroke="#141C3E" cx="8" cy="8" r="6.4"></circle>
+                    <path d="M8,1.6 C8.05435816,1.6 8.10855803,1.60067768 8.16259164,1.60202506 C9.52140916,3.0621911 10.4,5.38451992 10.4,8 C10.4,10.6152307 9.52157668,12.9373661 8.16323851,14.3971082 L8,14.4 C7.9455441,14.4 7.89124705,14.3993199 7.83711687,14.3979677 C6.47842332,12.9373661 5.6,10.6152307 5.6,8 C5.6,5.38451992 6.47859084,3.0621911 7.83715005,1.60247424 Z" id="形状结合" stroke="#141C3E"></path>
+                    <line x1="1.6" y1="8" x2="14.4" y2="8" id="路径-5" stroke="#141C3E"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
